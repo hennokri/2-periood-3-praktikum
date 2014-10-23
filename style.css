@@ -1,0 +1,14 @@
+body {background-image: url("http://upload.wikimedia.org/wikipedia/commons/1/1b/Batman_(black_background).jpg");}
+
+.content
+{padding:20px;
+text-align:center;
+background: white; 
+width:300px;
+min-height:300px;
+border-radius:2px;
+}
+
+body{color: #FFFFFF;
+font-weight:600;}
+input{margin-left: 20px;}
