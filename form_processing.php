@@ -2,6 +2,7 @@
 <html>
    <head>
     <title>Praktikum3</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
     <meta charset="UTF-8">
     <link rel="stylesheet" type"text/css" href="style.css">
    </head>
